@@ -24,6 +24,7 @@ body {
     border: 5px solid #ccc;
     float: left;
     width: 180px;
+    height: 100px;
   }
   
   div.bilder:hover {
