@@ -1,5 +1,15 @@
+/* Mobile version*/
+
 body {
     margin: 20%;
     padding: 20%;
     border: 1px solid #f3bd8b;
 }
+
+.header{
+    padding: 60px;
+    text-align: center;
+    background: coral;
+    color: white;
+    font-size: 30px;
+  }
