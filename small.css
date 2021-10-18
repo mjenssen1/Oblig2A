@@ -1,15 +1,42 @@
 /* Mobile version*/
 
+/*
 body {
-    margin: 20%;
+    margin: 50%;
     padding: 20%;
-    border: 1px solid #f3bd8b;
-}
+    border: 15px solid #f3bd8b;
+} */
 
 .header{
-    padding: 60px;
+    padding: 100px;
     text-align: center;
     background: coral;
     color: white;
     font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: sticky;
+    background-attachment: scroll;
+
   }
+
+  div.bilder {
+    margin: 10px;
+    border: 5px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.bilder:hover {
+    border: 1px rgb(255, 196, 156);
+  }
+  
+  div.bilder img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
